@@ -1,6 +1,5 @@
 #!/bin/bash
-git submodule init
-git submodule update
+git clone https://github.com/wat96/manticore.git
 
 # setup python stuff here.
 [ ! -d venv ] && python3 -m venv venv
