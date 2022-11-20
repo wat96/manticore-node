@@ -1,0 +1,3 @@
+[submodule "manticore"]
+	path = manticore
+	url = git@github.com:wat96/manticore.git

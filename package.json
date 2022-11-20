@@ -1,0 +1,23 @@
+{
+  "name": "manticore-node",
+  "version": "1.0.0",
+  "description": "package to access manticore in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "bash scripts/setup.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wat96/manticore-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wat96/manticore-node/issues"
+  },
+  "homepage": "https://github.com/wat96/manticore-node#readme",
+  "dependencies": {
+    "pythonia": "^1.0.0"
+  }
+}
