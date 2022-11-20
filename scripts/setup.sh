@@ -6,4 +6,3 @@ git submodule update
 [ ! -d venv ] && python3 -m venv venv
 (source venv/bin/activate && cd manticore && python3 -m pip install .)
 
-npm install
