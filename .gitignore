@@ -107,3 +107,6 @@ dist
 
 # python ignore stuff here
 venv/
+mcore_*
+__pycache__
+/test.js

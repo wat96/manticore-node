@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/wat96/manticore-node#readme",
   "dependencies": {
+    "lodash": "^4.17.21",
     "pythonia": "^1.0.0"
+  },
+  "devDependencies": {
+    "ethers": "^5.7.2"
   }
 }
